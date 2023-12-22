@@ -439,7 +439,7 @@ declare namespace _ZoteroTypes {
     xpath(
       node: HTMLElement | Document,
       xstring: string,
-      namespaces: any
+      namespaces?: any
     ): HTMLElement[] | [];
 
     /**

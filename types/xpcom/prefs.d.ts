@@ -1,5 +1,6 @@
 declare namespace _ZoteroTypes {
   interface Prefs {
+    rootBranch: any;
     /**
      * Retrieve a preference
      */
